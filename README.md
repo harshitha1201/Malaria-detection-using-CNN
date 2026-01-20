@@ -8,3 +8,6 @@ Image preprocessing → CNN training → Model evaluation.
 
 ## Tools
 Python, TensorFlow (Keras API), OpenCV, scikit-learn.
+
+## Results
+Achieved accurate binary classification of infected vs uninfected cells.
